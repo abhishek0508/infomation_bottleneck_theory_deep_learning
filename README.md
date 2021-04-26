@@ -14,4 +14,5 @@ Other requirements: `six`, `pathlib2`, `seaborn`.
 
 * `demo.py` is a simple script showing how to compute MI between X and Y, where Y = f(X) + Noise.
 
-Andrew Michael Saxe, Yamini Bansal, Joel Dapello, Madhu Advani, Artemy Kolchinsky, Brendan Daniel Tracey, David Daniel Cox, On the Information Bottleneck Theory of Deep Learning, *ICLR 2018*.
+* `FinalPresentation.pdf` contains explanation of paper in nutshell.
+
